@@ -1,0 +1,4 @@
+1. everything by default in app directory is a server component including pages 
+2. By default app router cached for 5 minute 
+3. Dynamic rendering use no caching in dev mode, 
+4. Middleware is something that you can run before the request hits the server 
