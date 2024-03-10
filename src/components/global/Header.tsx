@@ -8,7 +8,7 @@ const Header = () => {
         <Link href="/" >All 12 Concepts</Link>
       </div>
       <ul className='flex items-center content-start gap-x-4 w-full justify-end '>
-        <li><Link href="/" >Home</Link></li>
+        <li><Link href="/marketing" >Marketing</Link></li>
         <li><Link href="/posts" >Posts</Link></li>
       </ul>
     </div>
